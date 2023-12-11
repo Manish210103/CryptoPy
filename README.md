@@ -1,4 +1,4 @@
-# CryptoMaster: Cryptography Concepts and Implementation in Python
+# CryptoPy: Cryptography Concepts and Implementation in Python
 
 CryptoMaster is a project that delves into fundamental cryptography topics, exploring primality testing and factorization methods crucial for secure cryptographic systems. This Python-based project covers various algorithms, including the Extended Euclidean Algorithm, discrete algorithms, Fermat's test, linear congruence, the Chinese Remainder Theorem, and the Miller-Rabin primality test.
 
